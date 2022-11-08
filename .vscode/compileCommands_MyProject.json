@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\Source\\MyProject\\MyActor.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\Source\\MyProject\\MyActor.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\goerk\\OneDrive\\Dokumente\\Unreal Projects\\MyProject\\.vscode\\compileCommands_MyProject\\MyProject.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
